@@ -1,6 +1,6 @@
 # Human Face Tracking Robot Car
 
-This is the project for EI345 at SJTU and the Mathworks Excellance in Innovation program. We've built a human face tracking robot car in two different ways: Detection on Board and Detection on Phone. In addition, we've implemented a Indian voice (Hindi) controlling system, a trail following system, and an obstacle avoidance system.
+We've built a human face tracking robot car in two different ways: Detection on Board and Detection on Phone. In addition, we've implemented a Indian voice (Hindi) controlling system, a trail following system, and an obstacle avoidance system.
 
 See readme in the corresponding folder for detail. The version using Android phone is a revised and more advanced solution.
 
